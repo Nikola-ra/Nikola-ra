@@ -7,6 +7,10 @@
 ###
 
 <p align="left">📚 Currenty working on mobile and web development projects with AI integration<br><br>🎯 Planning to build projects, launch start-ups and have fun<br><br>👨‍🎓 Looking forward to earning a degree in ICT Engineering</p>
+<p align="left">🌐 Check out my personal website for more about my work, portfolio, and latest updates:<br>
+<br>
+<a href="https://nikolarahovic.com" target="_blank"><b>nikolarahovic.com</b></a>
+</p>
 
 ###
 
