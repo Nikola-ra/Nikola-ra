@@ -1,4 +1,14 @@
-<h1 align="left">Hey 👋 I am Nikola, full stack developer</h1>
+<h1 align="left">Hey 👋 I'm Nikola Rahovic — Full Stack Developer</h1>
+
+<p align="left">
+I build modern web and mobile applications using React, Next.js, Node.js, and TypeScript.
+<br>
+I enjoy turning ideas into real, working products.
+</p>
+
+<p align="left">
+🌐 <a href="https://nikolarahovic.com" target="_blank"><b>Check out my website → nikolarahovic.com</b></a>
+</p>
 
 ###
 
@@ -6,10 +16,30 @@
 
 ###
 
-<p align="left">📚 Currenty working on mobile and web development projects with AI integration<br><br>🎯 Planning to build projects, launch start-ups and have fun<br><br>👨‍🎓 Looking forward to earning a degree in ICT Engineering</p>
-<p align="left">🌐 Check out my personal website for more about my work, portfolio, and latest updates:<br>
-<br>
-<a href="https://nikolarahovic.com" target="_blank"><b>nikolarahovic.com</b></a>
+<p align="left">
+
+👨‍💻 I'm a full stack developer passionate about building useful and well-designed applications.
+
+<br><br>
+
+📚 I mainly work with modern JavaScript/TypeScript stacks and enjoy creating both frontend and backend systems.
+
+<br><br>
+
+🤖 Right now I'm working on web and mobile projects, experimenting with AI integrations, and continuously improving my skills.
+
+<br><br>
+
+💯 My goal is to grow as a developer, work on meaningful projects, and contribute to real products.
+
+<br><br>
+
+🎓 Currently earning a degree in ICT engineering to pursue my goals.
+
+<br><br>
+
+🏀 I'm also a basketball player and sports enthusiast.
+
 </p>
 
 ###
