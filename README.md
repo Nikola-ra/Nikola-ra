@@ -20,23 +20,23 @@ I enjoy turning ideas into real, working products.
 
 👨‍💻 I'm a full stack developer passionate about building useful and well-designed applications.
 
-<br><br>
+<br>
 
 📚 I mainly work with modern JavaScript/TypeScript stacks and enjoy creating both frontend and backend systems.
 
-<br><br>
+<br>
 
 🤖 Right now I'm working on web and mobile projects, experimenting with AI integrations, and continuously improving my skills.
 
-<br><br>
+<br>
 
 💯 My goal is to grow as a developer, work on meaningful projects, and contribute to real products.
 
-<br><br>
+<br>
 
 🎓 Currently earning a degree in ICT engineering to pursue my goals.
 
-<br><br>
+<br>
 
 🏀 I'm also a basketball player and sports enthusiast.
 
